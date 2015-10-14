@@ -1,2 +1,2 @@
 # primerRep
-Premier exemple
+Premier exemple de GIT
